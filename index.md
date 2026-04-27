@@ -11,8 +11,8 @@ layout: default
 
 My theory relies upon the assumption that students who live off campus (generally non-Freshmen as they don't have a first year requirement) will have a harder time going to in-person tutoring and therefore are less likely to attend despite finding it helpful.
 
-<img src="<custom-path>/static/imgs/count.png" alt="Number of non-Freshmens. "  width="500"/>
-<img src="<custom-path>/static/imgs/boxplot.png" alt="Tutoring ratings among non-Freshmen. "  width="500"/>
-<img src="<custom-path>/static/imgs/tripple.png" alt="Distribution of office hours by year. "  width="500"/>
+<img src="static/imgs/count.png" alt="Number of non-Freshmens. "  width="500"/>
 
-!
+<img src="static/imgs/boxplot.png" alt="Tutoring ratings among non-Freshmen. "  width="500"/>
+
+<img src="static/imgs/tripple.png" alt="Distribution of office hours by year. "  width="500"/>
